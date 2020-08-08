@@ -22,4 +22,4 @@ This project is broken down into three main notebooks:
 * Upload the train/test feature data to S3.
 * Define a binary classification model and a training script.
 * Train the model and deploy it using SageMaker.
-* Evaluate your deployed classifier.
+* Evaluate the deployed classifier.
